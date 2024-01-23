@@ -28,10 +28,10 @@ python dijkstra_visualizer.py
 ### Input Graph details
 Follow the on-screen prompts to input the graph details:
 
--Enter the number of nodes.
--Specify the name of each node.
--Enter the number of edges.
--Provide edge details in the format: source, destination, value.
+-Enter the number of nodes
+-Specify the name of each node
+-Enter the number of edges
+-Provide edge details in the format: source, destination, value
 
 ### Choose a starting node
 Enter the starting node for Dijkstra's algorithm when prompted.
