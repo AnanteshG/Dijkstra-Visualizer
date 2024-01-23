@@ -37,5 +37,9 @@ Follow the on-screen prompts to input the graph details:
 Enter the starting node for Dijkstra's algorithm when prompted.
 The script will then visualize the process and display the shortest distances and paths from the chosen starting node.
 
+## Example Graphs
+![Example-1](image1.png)
+![Example-2](image2.png)
+
 ## Contributing
 Feel free to contribute to the project by opening issues or submitting pull requests. Any contributions are welcome!
