@@ -4,9 +4,9 @@ import matplotlib.pyplot as plt
 # function to create graph
 def graph_create():
     G = nx.Graph()
-    nodes = int(input("Enter the number of nodes: "))
-    for i in range(nodes):
-        nodes = input(f"Enter the name of node {i+1} : ")
+    nodes_num = int(input("Enter the number of nodes: "))
+    for i in range(nodes_num):
+        nodes_name = input(f"Enter the name of node {i+1} : ")
         
     edges = int(input("Enter the number of edges: "))
     for i in range(edges):
